@@ -8,7 +8,7 @@ This notebook has been tested/requires the following packages:
   - matplotlib 2.0.2
   - [sodapy]: https://github.com/xmunoz/sodapy
 
-![Alt text](/images/CrimeScatterPlot.png "Map of Chicago")
-![Alt text](/images/MonthlyCrimes.png "Monthly Crimes")
-![Alt text](/images/NarcoticsCrimeClusters.png "Narcotics")
+![Alt text](/images/CrimeScatterPlot.PNG "Map of Chicago")
+![Alt text](/images/MonthlyCrimes.PNG "Monthly Crimes")
+![Alt text](/images/NarcoticsCrimeClusters.PNG "Narcotics")
 
